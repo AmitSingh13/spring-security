@@ -1,0 +1,7 @@
+com\app\dao\IProductDao.class
+com\app\controller\ProductController.class
+com\app\service\impl\ProductServiceImpl.class
+com\app\model\Product.class
+com\app\dao\impl\ProductDaoImpl.class
+com\app\service\IProductService.class
+com\app\config\AppConfig.class
